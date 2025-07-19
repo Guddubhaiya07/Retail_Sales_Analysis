@@ -8,7 +8,7 @@ This project presents an end-to-end **Retail Sales Data Analysis** using SQL. It
 
 The dataset `SQL - Retail Sales Analysis_utf.csv` contains retail transactions with the following key columns:
 
-- `transactions_id`: Unique transaction identifier  
+- `transactions_id`: Unique transaction identifier  .
 - `sale_date`: Date of the sale  
 - `sale_time`: Time of the sale  
 - `customer_id`: Unique customer ID  
